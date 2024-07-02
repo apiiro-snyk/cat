@@ -5,7 +5,7 @@
 	<artifactId>cat-client-plugin</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<properties>
-		<aspectj.version>1.8.10</aspectj.version>
+		<aspectj.version>1.9.22.1</aspectj.version>
 	</properties>
 	<dependencies>
 		<!-- AspectJ -->
